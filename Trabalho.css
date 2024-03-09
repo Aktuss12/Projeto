@@ -1,0 +1,125 @@
+body{
+    background: url("imagem-de-fundo2.png") repeat;
+}
+
+#cor-do-titulo{
+    color: rgb(0, 0, 0);
+    text-transform: capitalize;
+}
+
+.titulo{
+    text-align: center;
+    margin: 0% 1% 0% 65%;
+    background: -webkit-gradient(linear, left top, right top, from(rgba(255, 130, 130, 0.363)), to(rgb(131, 131, 236)));
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 100px;
+}
+
+.imagem-professor{
+    border-radius: 5%;
+    position: absolute;
+    bottom: 48%;
+    right: 83%;
+    height: 50%;
+    width: 305px;
+}
+
+.clique-nas-fotos{
+    color: aliceblue;
+    text-align: center;
+    background-image: url("fundo1.png");
+    border-radius: 40%;
+    width: 25%;
+    bottom: 80%;
+    left: 29%;
+    position: absolute;
+}
+
+.seta{
+    position: absolute;
+    left: 34%;
+    bottom: 47%;
+    height: 280px;
+    width: 280px;
+}
+
+fieldset{
+    background: -webkit-gradient(linear, left top, right top, from(rgba(86, 173, 255, 0.363)), to(rgb(37, 131, 118)));
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 15px;
+    margin: 0%;
+    position: absolute;
+    bottom: 6%;
+    width: 14%;
+    height: 380px;
+    left: 2%;
+    right: 90%;
+    padding: 0%;
+}
+
+.titulo-biografia{
+    color: rgb(255, 255, 255);
+}
+
+.biografia{
+    color: rgb(0, 0, 0);
+}
+
+.imagem1{
+    margin-left: 65%;
+    width: 35%;
+    height: 285px;
+}
+
+.imagem2{
+    margin-left: 65%;
+    width: 35%;
+    height: 285px;
+}    
+
+.imagem3{
+    margin-left: 65%;
+    width: 35%;
+    height: 285px;
+}
+
+nav{
+    color: rgb(255, 255, 255);
+}
+
+
+.img2{
+    width: 50%;
+    height: 150px;
+}
+
+.galeria2{
+    text-align: center;
+}
+
+.galeria{
+    text-align: center;
+    float: right;
+    width: 31%;
+    height: 5%;
+    margin: 1%;
+    padding: 0%;
+    background-color: url("imagem-de-fundo2.png");
+}
+
+.container{
+    position: absolute;
+    top: 55%;
+    left: 15%;
+    padding: 0%;
+}
+
+a{
+    text-decoration: none;
+}
+
+span{
+    color: #ffffff;
+    font-family: Tahoma, Sans-serif;
+    font-size: 10pt;
+}
